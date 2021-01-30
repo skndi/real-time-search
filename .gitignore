@@ -128,7 +128,14 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+<<<<<<< HEAD
 #VS
 *.sln
 *.pyproj
 *.vs/
+=======
+#VisualStudio
+*.sln
+*.pyproj
+.vs/
+>>>>>>> 4e3b150ae67054327741cd049a39238e524c8f26
